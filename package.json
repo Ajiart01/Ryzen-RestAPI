@@ -19,6 +19,7 @@
   "dependencies": {
     "@popperjs/core": "^2.11.8",
     "api-dylux": "^1.7.1",
+    "@bochilteam/scraper": "*",
     "axios": "^1.6.0",
     "bitly": "^7.1.2",
     "body-parser": "^1.20.1",
